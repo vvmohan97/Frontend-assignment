@@ -1,0 +1,28 @@
+.bg-container{
+background-image:url("newspaperimg.png");
+ height:110vh;
+ width: 500px;
+ background-size: cover; 
+ margin-left: 450px;  
+}
+.card1{
+height: 350px;
+width: 500px;
+background-color: white;
+padding:10px;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+
+}
+h6{
+    opacity: 0.5;
+}
+button{
+    background-color:  rgb(59, 56, 56);
+    color:white;
+    height:35px;
+    width:120px;
+    border-radius:7px;
+    border: none;
+    font-size:small;
+}

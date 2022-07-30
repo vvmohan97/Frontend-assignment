@@ -1,0 +1,43 @@
+.bg1{
+    background-image: url("hotelbg.png");
+    background-size: cover;
+    height:129vh;
+    width: 35vw;
+    margin-left: 30%;
+}
+.content{
+    background-color:black;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    height: 25%;
+    width: 85%;
+    margin-top: 100%;
+    margin-left: 8%;
+    color: whitesmoke;
+
+}
+.h1{
+    margin-top: 10%;
+    padding-left: 9%;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.p1{
+    padding-left: 8%;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.btn{
+    margin-left: 3%;
+    margin-top: 6%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.btn1{
+    border-radius: 7px;
+    border-color: whitesmoke;
+}

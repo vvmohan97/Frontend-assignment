@@ -1,0 +1,79 @@
+.img{
+    background-image: url("chatbg.png");
+    height:600px;
+    width:30vw;
+    background-size: cover;
+    margin: 0px auto;
+   
+    
+}
+.card-a{
+    background-color: #323f4b;
+    text-align: center;
+    padding: 6px;
+    color: aliceblue;
+
+}
+.card-b{
+    background-color:#47a3f3;
+    text-align: end;
+    padding: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 7px;
+}
+.card-c{
+    background-color:#52606d;
+    text-align:start;
+    padding: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 7px;
+}
+.card-d{
+    background-color:#47a3f3;
+    text-align: end;
+    padding: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 7px;
+}
+.card-e{
+    background-color:#52606d;
+    text-align:start;
+    padding: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 7px;
+}
+.card-f{
+    background-color:#47a3f3;
+    text-align: end;
+    padding: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 7px;
+}
+.card-g{
+    background-color:#52606d;
+    text-align:start;
+    padding: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 7px;
+}
+.card-h{
+    background-color:#47a3f3;
+    text-align: end;
+    padding: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 7px;
+}

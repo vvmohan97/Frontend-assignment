@@ -1,0 +1,41 @@
+.img{
+    background-image: url("arvrbg.png");
+    height: 120vh;
+    
+    background-size: cover;
+    margin-left:30%;
+    margin-right:150px;
+}
+.d1{
+    background-color: whitesmoke;
+    
+
+}
+.d2{
+    margin-top: 138%;
+    
+    background-color: whitesmoke;
+}
+.h1{
+    color:darkmagenta;
+    padding-left:3%;
+    padding-top:3%;
+}
+.p1{
+    padding-left: 7%;
+    font-family:'Times New Roman', Times, serif;
+}
+.btn1{
+    background-color: antiquewhite;
+    border-radius: 10%;
+    border-width:2%;
+    border-color: antiquewhite;
+    margin-left: 9%;
+}
+.btn2{
+    background-color: darkmagenta;
+   
+    border-color: darkmagenta;
+    border-radius:9%;
+    margin-left: 9%;
+}

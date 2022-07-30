@@ -1,0 +1,33 @@
+.d1-bg{
+    background-image: url("img1.png");
+    background-size: cover;
+    height: 100vh;
+}
+.d2-bg{
+    background-color: whitesmoke;
+    height: 50vh;
+
+}
+.h1{font-size: larger;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 30px;
+
+}
+.h4{
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 30px;
+}
+.img1{
+    margin-left: 30px;
+    height:200px;
+    width: 295px;
+}
+.v1{
+    margin-left: 30px;
+    margin-right: 30px;
+    border-color: black;
+    border-width: 70px;
+}
